@@ -16,3 +16,8 @@ git clone https://github.com/CoderMisaki/Auto-Flip-Image.git
 
 cd Auto-Flip-Image
 python image.py
+
+Lalu ketika kalian sudah jalankan codenya kalian akan diminta lokasi gambar kalian contohnya seperti di bawah ini.
+/storage/emulated/0/Download/molandak.jpeg
+
+nah aku menyimpan gambar tersebut di dalam folder download contohnya seperti itu
